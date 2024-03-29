@@ -8,7 +8,7 @@
 <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 <!-- <img width="100%" alt="Portfolio Screenshot" src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3"> -->
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/nazarFork/a/tree/main/src/png/front.PNG">
+<img width="100%" alt="Portfolio Screenshot" src="https://github.com/nazarFork/a/src/png/front.PNG">
 
 
 :star: Star me on GitHub — it helps!
@@ -40,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
 
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+Please contact me at hdreamDev@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
